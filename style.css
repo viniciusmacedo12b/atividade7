@@ -1,0 +1,68 @@
+
+
+li{
+    color: red;
+}
+body{
+    background-color: black;
+}
+hr{
+    border: solid 25px green;
+}
+img{
+    border-radius: 50px;
+    border: 4px solid black;
+}
+h2{
+    font-style: italic;
+font-size: 30px;
+color:rgb(16, 221, 221);
+}
+a{
+    text-decoration: none;
+    color:brown;
+}
+div{
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 500px;
+    background-color:aquamarine;
+    margin-inline: 300px;
+
+}
+li::marker{
+    color:black
+}
+h1{
+    margin-inline: 300px;
+    font-size: 42px;
+    color: brown;
+}
+.titulo{
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 1000px;
+    margin-inline: 300px;
+}
+
+h3{
+    color:darkgray;
+}
+button{
+    margin: 10px;
+    width: 95px;
+    height: 95px;
+    font-size: 30px;
+}
+
+.redes {
+    background-color: yellow;
+}
+.redes2 {
+    background-color: silver;
+}
+#calculadora{
+    color: black;
+    font-style: normal;
+}
